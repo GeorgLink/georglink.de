@@ -1,0 +1,50 @@
+---
+id: 443
+title: American Dream vs. Umweltbewusstsein
+date: 2012-12-19T06:37:53-06:00
+author: Georg Link
+layout: revision
+guid: http://www.georglink.de/2012/12/19/375-revision-8--443
+permalink: /2012/12/19/375-revision-8--443
+---
+Der Amerikanische Traum scheint sich für die Amerikaner <a title="The Uncomfortable Truth About American Wages" href="http://economix.blogs.nytimes.com/2012/10/22/the-uncomfortable-truth-about-american-wages/?ref=business" target="_blank">ausgeträumt</a> zu haben. <a title="Regardless of the Cost, College Still Matters" href="http://www.hamiltonproject.org/papers/regardless_of_the_cost_college_still_matters/" target="_blank">Der soziale Status und die Bildung</a> entscheidet sehr stark über die Möglichkeiten die ein Mensch in den USA hat. Selbst Fehler die mehr als 10 Jahre zurück liegen können einen die Neueinstellung verhindern. Das hat hier eine Freundin von mir erst erlebt. Was noch vom Amerikanischen Traum übrig geblieben ist, ist der Glaube, dass harte Arbeit zu Wohlstand führt. Nur leider bekommt nicht mehr jeder die Möglichkeit zu arbeiten und <a title="Trends: Reduced Earnings for Men in America" href="http://www.hamiltonproject.org/papers/trends_reduced_earnings_for_men_in_america/" target="_blank">Löhne sind rückläufig</a>.
+
+Beim Streben nach Glück hat der Besitz von Eigentum eine besondere Bedeutung in der Gesellschaft. Das Haus, das Autos, das Handys und sogar die eigene Familie dienen als Statussymbol. In einer Umgebung wo viele Menschen immer weniger Geld verdienen, bleiben Qualitätsansprüche auf der Strecke. Anders kann ich es mir nicht erklären, dass die Menschen hier in einer Umgebung wohnen die ich eher als billiges Industriegebiet ausschreiben würde. Anstelle anständig geteerter Straßen mit einem gepflasterten Fußweg ist hier alles aus billigstem Beton gegossen. (Hat natürlich den Vorteil, dass nach Bauarbeiten einfach die Fläche neu mit Beton ausgegossen wird und alles wieder so langweilig wie vorher aussieht.)
+
+Auch bei den persönlichen Besitztümern ist die Qualität scheinbar nur zweitrangig. Als ich mir im Einkaufsladen neue Kleidung für den Winter suchte, konnte ich kein Kleidungsstück finden, dass keinen Fehler hatte, auch wenn es nur lose Enden von Fäden waren die nicht vernäht warn. Meine neue Winterjacke beginnt sich schon aufzulösen und das obwohl ich extra eine bessere als eine billige genommen habe.
+
+Aber ich tue den Amerikanern Unrecht, so viel zu klagen. Insbesondere unter den Studenten kommen immer wieder fortschrittliche Themen auf, wie Nachhaltigkeit, Umweltschutz, Recycling oder Öffentliche Verkehrsmittel. Für mich als Deutscher sind das keine neuen Themen und ich bin mit verschiedenen Umsetzungen dieser Ideen groß geworden. Die Amerikaner hören immer ganz gespannt zu wenn ich unsere Mülltrennung erkläre. In den USA bezahlt man teilweise sogar dafür, dass man seinen Müll zur Wiederverwendung recyceln lässt.
+
+Viele Amerikaner haben, glaube ich, schon verstanden, dass wir als Menschheit den Klimawandel bekämpfen müssen, auch wenn es nur dazu dient zukünftige Bedrohungen durch Naturkatastrophen für das eigene Unternehmen und die eigene Familie zu verhindern. Vor kurzem erst hatten wir <a title="Auden Schendler" href="http://www.gettinggreendone.com/location.html" target="_blank">Auden Shendler</a> an der Uni, der uns Studenten vor Augen geführt hat, dass der Klimawandel Realität ist und dass jeder von uns im Rahmen seiner Möglichkeiten etwas dagegen unternehmen muss. Sein Auftritt wurde unter anderem von Green Basis mit organisiert.
+
+<div id="attachment_407" style="width: 210px" class="wp-caption aligncenter">
+  <a href="http://www.georglink.de/media/2012/12/gettinggreendone.jpg"><img aria-describedby="caption-attachment-407" loading="lazy" class="size-full wp-image-407" title="gettinggreendone" src="http://www.georglink.de/media/2012/12/gettinggreendone.jpg" alt="" width="200" height="300" /></a>
+  
+  <p id="caption-attachment-407" class="wp-caption-text">
+    Das Buch &#8220;Getting Green Done&#8221; von Auden Schendler.
+  </p>
+</div>
+
+<a title="Green Basis" href="https://www.facebook.com/GreenBasis" target="_blank">Green Basis</a> ist eine Studentengruppe die sich mit Umweltthemen auseinander setzt. Ziel der Mitglieder ist es, sich selbst in dem Themengebiet zu schulen, zu lernen und dann auch Aufmerksamkeit zu erzeugen. Dafür ist die <a title="Mammel Hall" href="http://cba.unomaha.edu/MAMMEL_HALL_CBA/" target="_blank">Mammel Hall</a>, das Gebäude der Fakultät für Wirtschaftswissenschaften, der perfekte Ausgangspunkt. Warum? Weil die Mammel Hall <a title="Leadership in Energy and Environmental Design (LEED)" href="http://de.wikipedia.org/wiki/Leadership_in_Energy_and_Environmental_Design" target="_blank">LEED</a>-zertifiziert ist.
+
+Die Studenten von <a title="ECUNO" href="http://www.unomaha.edu/ecuno/" target="_blank">ECUNO</a> (Environmental Club of University of Nebraska at Omaha) gehen noch einen Schritt weiter und entwickeln umsetzbare Ideen durch die, die Universität umweltfreundlicher werden kann. Das Recyclingprogramm ist eines ihrer Erfolge.
+
+Auch in der „erwachsenen“ Bevölkerung gibt es einige Aktivisten. Die <a title="Green Omaha Coalition" href="http://www.greenomahacoalition.org/" target="_blank">Green Omaha Coalition</a> ist ein Forum für interessierte Bürger. In dem Rahmen werden Aktionen veranstaltet die das Umweltbewusstsein stärken. Ich war auf deren <a title="Green Home Tour" href="http://www.greenomahacoalition.org/councils/design-and-construction/2012-green-home-tour/the-homes/" target="_blank">Green Home Tour</a>. So konnte man sich unverbindlich anschauen wie Nachhaltigkeit aussieht, die auch gelebt wird.
+
+Das ist der krasse Kontrast zu meiner Wohnung. Ich mag ja meine Wohnung. Jetzt wo es kalt wird, merke ich aber wo überall die Kälte rein kommt. Die Balkontür habe ich schon versiegeln lassen, weil die so undicht war, dass ich durch den Rahmen nach draußen schauen konnte. Das ist fast so löchrig wie die Fluchttür auf dem Flur, durch die ich nach draußen schauen kann und der Wind herein kommt. Nur heize ich den Flur nicht mit meinem Strom.
+
+<div id="attachment_408" style="width: 610px" class="wp-caption aligncenter">
+  <a href="http://www.georglink.de/media/2012/12/crack-in-door_arrow.jpg"><img aria-describedby="caption-attachment-408" loading="lazy" class="size-full wp-image-408" title="crack-in-door_arrow" src="http://www.georglink.de/media/2012/12/crack-in-door_arrow.jpg" alt="" width="600" height="800" srcset="http://www.georglink.de/media/2012/12/crack-in-door_arrow.jpg 600w, http://www.georglink.de/media/2012/12/crack-in-door_arrow-225x300.jpg 225w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+  
+  <p id="caption-attachment-408" class="wp-caption-text">
+    Die Spalte in der Tür sind offensichtlich und vergleichsweise groß und sind auch im restlichen Bereich der Tür. Unten links kann man das Licht von draußen sehen, das durch den Spalt zwischen Tür und Rahmen scheint.
+  </p>
+</div>
+
+Apropos Strom… Ich wusste gar nicht, dass wir in Deutschland einen riesigen Luxus genießen. Wir können uns unseren <a href="http://energie-vermittlung.de/" target="_blank">Stromanbieter frei aussuchen</a> und können dadurch Geld sparen. Hier bin ich an die örtlichen Stadtwerke <a title="Omaha Public Power District" href="http://www.oppd.com/" target="_blank">OPPD</a> gebunden. Aber Freie Marktwirtschaft ist auch ein Versprechen, das die USA nicht wirklich halten kann. Bei vielem findet man Monopole oder Oligopole und hat keine richtige Auswahl. Neben Strom gilt das auch für Handyverträge und Handys. Verizon Wirless hätte ich gerne als Anbieter gehabt, weil die das <a href="http://bgr.com/2012/11/02/post-hurricane-nyc-wireless-service-rumor-verizon/" target="_blank">beste Netz</a> haben. Ich bin aber nicht bereit <a href="http://www.verizonwireless.com/wcms/consumer/shop/prepaid.html#chooseaplan" target="_blank">50$ im Monat für einen „Prepaid“ Vertrag</a> auszugeben. Noch dazu hätte ich mein Handy nicht nutzen können sondern hätte mir aus 5 Schrotthandys eines aussuchen und zusätzlich kaufen müssen. Ein Smartphone hätte ich erst ab einem Prepaid Vertrag für 80$ pro Monat dazu kaufen können. Jetzt bin ich bei <a href="https://www.h2owirelessnow.com/pageControl.php?page=plans&category=W" target="_blank">H2O</a> und zahle 25$/Monat und nutze mein altes Samsung SGH-D500&#8230;
+
+Ich mag Deutschland wahrscheinlich einfach zu sehr, sodass mir hier diverse Kleinigkeiten (80$ pro Monat ist ja nun wirklich nicht der Rede wert und wer würde schon von einer kapitalistischen Marktwirtschaft erwarten, dass man Wahlfreiheiten zwischen verschiedenen Verkäufern hätte &#8211; grummel) negativ auffallen.
+
+Der Amerikanische Traum hat sich schließlich doch ausgelebt. Aber ich sehe Hoffnung. Der Bewusstseinswandel der Amerikaner hin zu mehr Umweltbewusstsein hat eingesetzt.
+
+Ich habe beschlossen meinen Teil dazu beizutragen hier eine Veränderung herbeizuführen. Mit dem Vermieter meines Apartments habe ich gesprochen und gefragt ob er einen Fahrradstand auf dem Grundstück installieren könnte. Im Moment dürfen wir unsere Fahrräder offiziell nicht draußen irgendwo anschließen (Wie würde das denn aussehen?) oder im Hausflur (Fluchtwege!) aufbewahren. Gerade wer im zweiten Obergeschoss wohnt, so wie ich, freut sich darüber das Fahrrad jedes Mal die Treppen hoch zu tragen und in der Wohnung oder auf dem Balkon abzustellen. Mein Vermieter zeigt immerhin Gesprächsbereitschaft und wir haben abgemacht, dass ich mal bei meinen Nachbarn rum horche ob die das auch gut fänden. Es ist schließlich offensichtlich, dass Fahrradfahren gesünder ist, als Autofahren. Es belastet zudem die Umwelt weniger. Die Reaktionen meiner Nachbarn waren bisher durchweg positiv und ich starte bald eine Petition.
